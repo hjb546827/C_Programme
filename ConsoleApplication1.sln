@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConsoleApplication1", "ConsoleApplication1.vcxproj", "{880184CF-37A1-4D82-81CE-D37655B04B3F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "迷宫", "..\迷宫\迷宫.vdproj", "{0783063D-9A93-4482-AC2A-284D3A779820}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{880184CF-37A1-4D82-81CE-D37655B04B3F}.Debug|x64.ActiveCfg = Debug|x64
+		{880184CF-37A1-4D82-81CE-D37655B04B3F}.Debug|x64.Build.0 = Debug|x64
+		{880184CF-37A1-4D82-81CE-D37655B04B3F}.Debug|x86.ActiveCfg = Debug|Win32
+		{880184CF-37A1-4D82-81CE-D37655B04B3F}.Debug|x86.Build.0 = Debug|Win32
+		{880184CF-37A1-4D82-81CE-D37655B04B3F}.Release|x64.ActiveCfg = Release|x64
+		{880184CF-37A1-4D82-81CE-D37655B04B3F}.Release|x64.Build.0 = Release|x64
+		{880184CF-37A1-4D82-81CE-D37655B04B3F}.Release|x86.ActiveCfg = Release|Win32
+		{880184CF-37A1-4D82-81CE-D37655B04B3F}.Release|x86.Build.0 = Release|Win32
+		{0783063D-9A93-4482-AC2A-284D3A779820}.Debug|x64.ActiveCfg = Debug
+		{0783063D-9A93-4482-AC2A-284D3A779820}.Debug|x86.ActiveCfg = Debug
+		{0783063D-9A93-4482-AC2A-284D3A779820}.Release|x64.ActiveCfg = Release
+		{0783063D-9A93-4482-AC2A-284D3A779820}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADAB336D-8B3A-4333-B602-02F135A29CA0}
+	EndGlobalSection
+EndGlobal
